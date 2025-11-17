@@ -31,3 +31,18 @@
 - IDE: IntelliJ IDEA (backend), VS Code (frontend)
 
 ### Folder Structure
+/user-service
+/product-service
+/cart-service
+/inventory-service
+/notification-service
+/payment-service
+/frontend
+
+
+## Setup Instructions
+- Clone the repository
+- Set up each microservice as an independent Spring Boot project
+- Set up the React frontend project in `/frontend`
+- Update this README with service setup, endpoints, and usage
+
